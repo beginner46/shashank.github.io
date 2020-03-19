@@ -40,7 +40,7 @@ Running after a better cpi.<br />4)Badminton,music,coding,maths,physics.<br />5)
 <h4><p><strong>future plans-</strong><br />none!!!!</p></h4>
 
 <h4><p> CV </p></h4>
-<embed src="final draft.pdf" width="800px" height="2000px" />
+<embed src="cv@eecs.pdf" width="800px" height="2000px" />
 
 <p>for anything else regarding me,my work ,feel free to contact me<br/><a href="contacts.html">contact details</a></p>
 <form>
